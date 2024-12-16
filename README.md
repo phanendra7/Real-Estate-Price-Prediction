@@ -18,9 +18,11 @@ The House Price Prediction App is a machine learning-based application that prov
 - **Machine Learning:** Python libraries including Pandas, Numpy, Scikit-Learn, and XGBoost
 
 ## App Interface
-![image](https://github.com/user-attachments/assets/05459565-ad97-4edc-9c20-18b626122e93)
-![image](https://github.com/user-attachments/assets/083be0f8-e8eb-4e56-b103-c89349f62778)
-![image](https://github.com/user-attachments/assets/2473550e-ccb0-4443-8e44-a4abc4147f01)
+![image](https://github.com/user-attachments/assets/166723d0-d117-4a5d-9a39-85e36fdc2fae)
+![image](https://github.com/user-attachments/assets/34746a24-86f5-4ee8-a419-4e0cf3aa542d)
+![image](https://github.com/user-attachments/assets/48ac3003-1e93-4bef-8922-1cdb9b888227)
+![image](https://github.com/user-attachments/assets/c89c2517-7478-4429-bf56-1750d49e887d)
+![image](https://github.com/user-attachments/assets/749cd207-fb96-4e8c-9f8f-328b6c2364eb)
 
 
 
