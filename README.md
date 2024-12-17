@@ -21,7 +21,8 @@ The House Price Prediction App is a machine learning-based application that prov
 ![image](https://github.com/user-attachments/assets/0ade9fa4-2394-4bf4-8ce4-b26707340b67)
 ![image](https://github.com/user-attachments/assets/34746a24-86f5-4ee8-a419-4e0cf3aa542d)
 ![image](https://github.com/user-attachments/assets/48ac3003-1e93-4bef-8922-1cdb9b888227)
-![image](https://github.com/user-attachments/assets/e5e58f52-a426-4eeb-b65c-226566d97fa8)
+![image](https://github.com/user-attachments/assets/27143fe9-ac6a-4f46-b2eb-bfe3de20c944)
+
 
 
 ![image](https://github.com/user-attachments/assets/c89c2517-7478-4429-bf56-1750d49e887d)
